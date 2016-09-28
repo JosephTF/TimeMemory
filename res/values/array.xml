@@ -1,0 +1,333 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="color_names">
+        <item>ivory--象牙色</item>
+        <item>lightyellow--亮黄色</item>
+        <item>yellow--黄色</item>
+        <item>snow--雪白色</item>
+        <item>floralwhite--花白色</item>
+        
+        <item>lemonchiffon--柠檬绸色</item>
+        <item>cornsilk--米绸色</item>
+        <item>seashell--海贝色</item>
+        <item>lavenderblush--淡紫红</item>
+        <item>papayawhip--番木色</item>
+        <item>blanchedalmond--白杏色</item>
+        
+        <item>mistyrose--浅玫瑰色</item>
+        <item>bisque--桔黄色</item>
+        <item>moccasin--鹿皮色</item>
+        <item>navajowhite--纳瓦白</item>
+        <item>peachpuff--桃色</item>
+        <item>gold--金色</item>
+        
+        <item>pink--粉红色</item>
+        <item>lightpink--亮粉红色</item>
+        <item>orange--橙色</item>
+        <item>lightsalmon--亮肉色</item>
+        <item>darkorange--暗桔黄色</item>
+        <item>coral--珊瑚色</item>
+        
+        <item>hotpink--热粉红色</item>
+        <item>tomato--西红柿色</item>
+        <item>orangered--红橙色</item>
+        <item>deeppink--深粉红色</item>
+        <item>fuchsia--紫红色</item>
+        <item>magenta--红紫色</item>
+        
+        <item>red--红色</item>
+        <item>oldlace--老花色</item>
+        <item>lightgoldenrodyellow--亮金黄色</item>
+        <item>linen--亚麻色</item>
+        <item>antiquewhite--古董白</item>
+        <item>salmon--鲜肉色</item>
+        
+        <item>ghostwhite---幽灵白</item>
+        <item>mintcream--薄荷色</item>
+        <item>whitesmoke--烟白色</item>
+        <item>beige--米色</item>
+        <item>wheat--浅黄色</item>
+        <item>sandybrown--沙褐色</item>
+        
+        <item>azure--天蓝色</item>
+        <item>honeydew--蜜色</item>
+        <item>aliceblue--艾利斯兰</item>
+        <item>khaki--黄褐色</item>
+        <item>lightcoral--亮珊瑚色 </item>
+        <item>palegoldenrod--苍麒麟色</item>
+        
+        <item>violet---紫罗兰色</item>
+        <item>darksalmon"--暗肉色</item>
+        <item>lavender--淡紫色</item>
+        <item>lightcyan--亮青色</item>
+        <item>burlywood--实木色</item>
+        <item>plum--洋李色</item>
+        
+        <item>gainsboro--淡灰色</item>
+        <item>crimson--暗深红色</item>
+        <item>palevioletred--苍紫罗兰色</item>
+        <item>goldenrod--金麒麟色</item>
+        <item>orchid--淡紫色 </item>
+        <item>thistle--蓟色</item>
+        
+        <item>lightgrey---亮灰色</item>
+        <item>tan--茶色</item>
+        <item>chocolate--巧可力色</item>
+        <item>peru--秘鲁色</item>
+        <item>indianred--印第安红</item>
+        <item>mediumvioletred--中紫罗兰色</item>
+        
+        <item>silver--银色</item>
+        <item>darkkhaki--暗黄褐色</item>
+        <item>rosybrown--褐玫瑰红</item>
+        <item>mediumorchid--中粉紫色</item>
+        <item>darkgoldenrod--暗金黄色 </item>
+        
+        <item>firebrick---火砖色</item>
+        <item>powderblue--粉蓝色</item>
+        <item>lightsteelblue--亮钢兰色</item>
+        <item>paleturquoise--苍宝石绿 </item>
+        <item>greenyellow--黄绿色</item>
+        <item>lightblue--亮蓝色</item>
+        
+        <item>darkgray--暗灰色</item>
+        <item>brown--褐色</item>
+        <item>sienna--金麒麟色</item>
+        <item>darkorchid--暗紫色  </item>
+        <item>palegreen--苍绿色  </item>
+        
+        <item>darkviolet---暗紫罗兰色</item>
+        <item>mediumpurple--中紫色</item>
+        <item>lightgreen--亮绿色</item>
+        <item>darkseagreen--暗海兰色 </item>
+        <item>saddlebrown--重褐色</item>
+        <item>darkmagenta--暗洋红</item>
+        
+        <item>darkred--暗红色 </item>
+        <item>blueviolet--紫罗兰蓝色</item>
+        <item>lightskyblue--亮天蓝色 </item>
+        <item>skyblue--天蓝色  </item>
+        <item>gray--灰色  </item>
+        <item>olive--橄榄色  </item>
+        
+        <item>purple---紫色</item>
+        <item>maroon--粟色</item>
+        <item>aquamarine--碧绿色</item>
+        <item>chartreuse-黄绿色  </item>
+        <item>lawngreen--草绿色</item>
+        <item>mediumslateblue--中暗蓝色</item>
+        
+        <item>lightslategray--亮蓝灰 </item>
+        <item>slategrey--灰石色</item>
+        <item>olivedrab--深绿褐色 </item>
+        <item>slateblue-石蓝色 </item>
+        <item>dimgray--暗灰色  </item>
+        <item>mediumaquamarine--中绿色  </item>
+        
+        <item>cornflowerblue---菊兰色 </item>
+        <item>cadetblue--军兰色 </item>
+        <item>darkolivegreen--暗橄榄绿</item>
+        <item>indigo-靛青色   </item>
+        <item>mediumturquoise--中绿宝石</item>
+        <item>darkslateblue--暗灰蓝色</item>
+        
+        <item>steelblue--钢兰色 </item>
+        <item>royalblue--皇家蓝</item>
+        <item>turquoise--绿色 </item>
+        <item>mediumseagreen-中海蓝 </item>
+        <item>limegreen--橙绿色  </item>
+        <item>darkslategray--暗瓦灰色  </item>
+        
+        <item>seagreen--海绿色 </item>
+        <item>forestgreen--森林绿</item>
+        <item>lime--亮海蓝色 </item>
+        <item>mediumspringgreen-闪兰色 </item>
+        <item>midnightblue--中灰兰色  </item>
+        <item>aqua--浅绿色  </item>
+        
+        <item>cyan---青色 </item>
+        <item>springgreen--春绿色 </item>
+        <item>lime--酸橙色</item>
+        <item>mediumspringgreen-中春绿色   </item>
+        <item>darkturquoise--暗宝石绿</item>
+        <item>deepskyblue--深天蓝色</item>
+        
+        <item>darkcyan---暗青色  </item>
+        <item>teal--水鸭色 </item>
+        <item>green--绿色</item>
+        <item>darkgreen-暗绿色   </item>
+        <item>blue--蓝色 </item>
+        <item>mediumblue--中兰色</item>
+        <item>darkblue-暗蓝色   </item>
+        <item>navy--海军色</item>
+        <item>black--黑色</item>
+    </string-array>
+	
+	
+	
+    <string-array name="color_values">
+        <item>@color/ivory</item>
+        <item>@color/lightyellow</item>
+        <item>@color/yellow</item>
+        <item>@color/snow</item>
+        <item>@color/floralwhite</item>
+        
+        <item>@color/lemonchiffon</item>
+        <item>@color/cornsilk</item>
+        <item>@color/seashell</item>
+        <item>@color/lavenderblush</item>
+        <item>@color/papayawhip</item>
+        <item>@color/blanchedalmond</item>
+        
+        <item>@color/mistyrose</item>
+        <item>@color/bisque</item>
+        <item>@color/moccasin</item>
+        <item>@color/navajowhite</item>
+        <item>@color/peachpuff</item>
+        <item>@color/gold</item>
+        
+        <item>@color/pink</item>
+        <item>@color/lightpink</item>
+        <item>@color/orange</item>
+        <item>@color/lightsalmon</item>
+        <item>@color/darkorange</item>
+        <item>@color/coral</item>
+        
+        <item>@color/hotpink</item>
+        <item>@color/tomato</item>
+        <item>@color/orangered</item>
+        <item>@color/deeppink</item>
+        <item>@color/fuchsia</item>
+        <item>@color/magenta</item>
+        
+        <item>@color/red</item>
+        <item>@color/oldlace</item>
+        <item>@color/lightgoldenrodyellow</item>
+        <item>@color/linen</item>
+        <item>@color/antiquewhite</item>
+        <item>@color/salmon</item>
+        
+        <item>@color/ghostwhite</item>
+        <item>@color/mintcream</item>
+        <item>@color/whitesmoke</item>
+        <item>@color/beige</item>
+        <item>@color/wheat</item>
+        <item>@color/sandybrown</item>
+        
+        <item>@color/azure</item>
+        <item>@color/honeydew</item>
+        <item>@color/aliceblue</item>
+        <item>@color/khaki</item>
+        <item>@color/lightcoral</item>
+        <item>@color/palegoldenrod</item>
+        
+        <item>@color/violet</item>
+        <item>@color/darksalmon</item>
+        <item>@color/lavender</item>
+        <item>@color/lightcyan</item>
+        <item>@color/burlywood</item>
+        <item>@color/plum</item>
+        
+        <item>@color/gainsboro</item>
+        <item>@color/crimson</item>
+        <item>@color/palevioletred</item>
+        <item>@color/goldenrod</item>
+        <item>@color/orchid</item>
+        <item>@color/thistle</item>
+        
+        <item>@color/lightgrey</item>
+        <item>@color/tan</item>
+        <item>@color/chocolate</item>
+        <item>@color/peru</item>
+        <item>@color/indianred</item>
+        <item>@color/mediumvioletred</item>
+        
+        <item>@color/silver</item>
+        <item>@color/darkkhaki</item>
+        <item>@color/rosybrown</item>
+        <item>@color/mediumorchid</item>
+        <item>@color/darkgoldenrod</item>
+        
+        <item>@color/firebrick</item>
+        <item>@color/powderblue</item>
+        <item>@color/lightsteelblue</item>
+        <item>@color/paleturquoise</item>
+        <item>@color/greenyellow</item>
+        <item>@color/lightblue</item>
+        
+        <item>@color/darkgray</item>
+        <item>@color/brown</item>
+        <item>@color/sienna</item>
+        <item>@color/darkorchid</item>
+        <item>@color/palegreen</item>
+        
+        <item>@color/darkviolet</item>
+        <item>@color/mediumpurple</item>
+        <item>@color/lightgreen</item>
+        <item>@color/darkseagreen</item>
+        <item>@color/saddlebrown</item>
+        <item>@color/darkmagenta</item>
+        
+        <item>@color/darkred</item>
+        <item>@color/blueviolet</item>
+        <item>@color/lightskyblue</item>
+        <item>@color/skyblue</item>
+        <item>@color/gray</item>
+        <item>@color/olive</item>
+        
+        <item>@color/purple</item>
+        <item>@color/maroon</item>
+        <item>@color/aquamarine</item>
+        <item>@color/chartreuse</item>
+        <item>@color/lawngreen</item>
+        <item>@color/mediumslateblue</item>
+        
+        <item>@color/lightslategray</item>
+        <item>@color/slategrey</item>
+        <item>@color/olivedrab</item>
+        <item>@color/slateblue</item>
+        <item>@color/dimgray</item>
+        <item>@color/mediumaquamarine</item>
+        
+        <item>@color/cornflowerblue</item>
+        <item>@color/cadetblue</item>
+        <item>@color/darkolivegreen</item>
+        <item>@color/indigo</item>
+        <item>@color/mediumturquoise</item>
+        <item>@color/darkslateblue</item>
+        
+        <item>@color/steelblue</item>
+        <item>@color/royalblue</item>
+        <item>@color/turquoise</item>
+        <item>@color/mediumseagreen</item>
+        <item>@color/limegreen</item>
+        <item>@color/darkslategray</item>
+        
+        <item>@color/seagreen</item>
+        <item>@color/forestgreen</item>
+        <item>@color/lightseagreen</item>
+        <item>@color/dodgerblue</item>
+        <item>@color/midnightblue</item>
+        <item>@color/aqua</item>
+        
+        <item>@color/cyan</item>
+        <item>@color/springgreen</item>
+        <item>@color/lime</item>
+        <item>@color/mediumspringgreen</item>
+        <item>@color/darkturquoise</item>
+        <item>@color/deepskyblue</item>
+        
+        <item>@color/darkcyan</item>
+        <item>@color/teal</item>
+        <item>@color/green</item>
+        <item>@color/darkgreen</item>
+        <item>@color/blue</item>
+        <item>@color/mediumblue</item>
+        <item>@color/darkblue</item>
+        <item>@color/navy</item>
+        <item>@color/black</item>
+    </string-array>
+
+
+</resources>

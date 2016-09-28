@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/setmain"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <include layout="@layout/set_title" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="10dp"
+        android:layout_marginTop="20dp"
+        android:gravity="center_vertical"
+        android:paddingLeft="15dp"
+        android:text="智能聊天"
+        android:textColor="#ff888888"
+        android:textSize="16sp" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+
+        <TableLayout
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:divider="@drawable/divider"
+            android:dividerPadding="20dp"
+            android:paddingLeft="1dp"
+            android:showDividers="end"
+            android:stretchColumns="0" >
+
+            <TableRow
+                android:id="@+id/row1"
+                android:layout_marginLeft="2dp"
+                android:layout_marginRight="2dp"
+                android:paddingBottom="10dp"
+                android:paddingTop="5dp" >
+
+                <TextView
+                    android:id="@+id/robot"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:drawablePadding="5dp"
+                    android:gravity="center_vertical"
+                    android:includeFontPadding="false"
+                    android:paddingLeft="17dp"
+                    android:text="助手小T"
+                    android:textColor="#ff333333"
+                    android:textSize="18sp" />
+
+                <ImageView
+                    android:layout_width="22dp"
+                    android:layout_height="22dp"
+                    android:layout_gravity="right"
+                    android:paddingRight="10dp"
+                    android:src="@drawable/ic_arrow" />
+            </TableRow>
+        </TableLayout>
+    </LinearLayout>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="10dp"
+        android:layout_marginTop="20dp"
+        android:gravity="center_vertical"
+        android:paddingLeft="15dp"
+        android:text="基本详情"
+        android:textColor="#ff888888"
+        android:textSize="16sp" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+
+        <TableLayout
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:divider="@drawable/divider"
+            android:dividerPadding="20dp"
+            android:paddingLeft="1dp"
+            android:showDividers="end"
+            android:stretchColumns="0" >
+
+            <TableRow
+                android:id="@+id/row2"
+                android:layout_marginLeft="2dp"
+                android:layout_marginRight="2dp"
+                android:paddingBottom="5dp"
+                android:paddingTop="5dp" >
+
+                <TextView
+                    android:id="@+id/lock"
+                    android:layout_width="wrap_content"
+                    android:layout_height="fill_parent"
+                    android:drawablePadding="5dp"
+                    android:gravity="center_vertical"
+                    android:includeFontPadding="false"
+                    android:paddingLeft="17dp"
+                    android:text="关于软件"
+                    android:textColor="#ff333333"
+                    android:textSize="18sp" />
+
+                <ImageView
+                    android:layout_width="22dp"
+                    android:layout_height="22dp"
+                    android:layout_gravity="right"
+                    android:paddingRight="10dp"
+                    android:src="@drawable/ic_arrow" />
+            </TableRow>
+
+        </TableLayout>
+    </LinearLayout>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="10dp"
+        android:layout_marginTop="20dp"
+        android:gravity="center_vertical"
+        android:paddingLeft="15dp"
+        android:text="软件检测："
+        android:textColor="#ff888888"
+        android:textSize="16sp" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+
+        <TableLayout
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:paddingLeft="1dp"
+            android:stretchColumns="0" >
+
+            <TableRow
+                android:id="@+id/row3_1"
+                android:layout_marginLeft="2dp"
+                android:layout_marginRight="2dp"
+                android:clickable="true"
+                android:paddingBottom="5dp"
+                android:paddingTop="5dp" >
+
+                <TextView
+                    android:id="@+id/upgrade"
+                    android:layout_width="wrap_content"
+                    android:layout_height="fill_parent"
+                    android:drawablePadding="5dp"
+                    android:gravity="center_vertical"
+                    android:includeFontPadding="false"
+                    android:paddingLeft="17dp"
+                    android:text="检查更新"
+                    android:textColor="#ff333333"
+                    android:textSize="18sp" />
+
+                <TextView
+                    android:id="@+id/version"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginRight="0dp"
+                    android:includeFontPadding="false"
+                    android:paddingRight="0dp"
+                    android:textColor="#33ccff"
+                    android:textSize="16sp" />
+
+                <ImageView
+                    android:layout_width="22dp"
+                    android:layout_height="22dp"
+                    android:layout_gravity="right"
+                    android:paddingRight="10dp"
+                    android:src="@drawable/ic_arrow" />
+            </TableRow>
+
+            <TableRow
+                android:id="@+id/row3_2"
+                android:layout_marginLeft="2dp"
+                android:layout_marginRight="2dp"
+                android:clickable="true"
+                android:paddingBottom="20dp"
+                android:paddingTop="5dp" >
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="fill_parent"
+                    android:drawablePadding="5dp"
+                    android:gravity="center_vertical"
+                    android:includeFontPadding="false"
+                    android:paddingLeft="17dp"
+                    android:text="清除缓存"
+                    android:textColor="#ff333333"
+                    android:textSize="18sp" />
+
+                <TextView
+                    android:id="@+id/cache"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="right"
+                    android:layout_marginRight="0dp"
+                    android:includeFontPadding="false"
+                    android:textColor="#33ccff"
+                    android:textSize="16sp" />
+            </TableRow>
+        </TableLayout>
+    </LinearLayout>
+	<Button 
+	    android:id="@+id/exitbtn"
+	    android:layout_width="wrap_content"
+	    android:layout_height="wrap_content"
+	    android:layout_gravity="center_horizontal"
+	    android:gravity="center"
+	    android:text="退 出 软 件"
+	    android:paddingLeft="40dp"
+	    android:paddingRight="40dp"
+	    android:layout_marginTop="40dp"
+	    android:textStyle="bold"
+	    android:textColor="@color/whitesmoke"
+	    android:background="@xml/exit_btn"/>
+</LinearLayout>
